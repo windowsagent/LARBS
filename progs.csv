@@ -13,12 +13,11 @@ A,gtk-theme-arc-gruvbox-git,gives the dark GTK theme used in LARBS.
 ,neovim,a tidier vim with some useful features
 ,mpv,is the patrician's choice video player.
 ,man-db,lets you read man pages of programs.
-,Microsoft-edge-beta-bin,is propietary browser garbage
+,microsoft-edge-beta-bin,is propietary browser garbage
 ,noto-fonts-emoji,is an emoji font.
 ,ntfs-3g,allows accessing NTFS partitions.
 ,pulsemixer,is an audio controller.
 ,pamixer,is a command-line audio interface.
-A,sc-im,is an Excel-like terminal spreadsheet manager.
 ,unclutter,hides an inactive mouse.
 ,unzip,unzips zips.
 ,youtube-dl,can download any YouTube video (or playlist or channel) when given the link.
@@ -44,11 +43,10 @@ A,ksuperkey,lets you press (super) for opening up xfce4-whisker-menu
 ,Ttf-hack,font for da terminal
 A,nerd-fonts-inter,font for da system
 ,pavucontrol,allows you to graphically make more complex audio adjustments
-G,https://github.com/windowsagent/voidrice,dotfiles for hyprland setup
 G,https://github.com/windowsagent/st,is Luke’s custom build of suckless's terminal emulator.
 A,Hyprland-git,my new WM
+,rustup,"is the rust language, needed as a dependency"
 A,Eww-wayland,Widget platform for wayland
-A,rofi-lbonn-wayland,launcher for apps
 ,trayer,
 A,mpvpaper,
 A,macchina,
@@ -56,4 +54,7 @@ A,nitch,
 A,socat,
 A,geticons,
 A,fuzzel,
+A,rofi-lbonn-wayland,launcher for apps
 ,rofi,
+A,lemurs,is a display manager
+A,libreoffice,

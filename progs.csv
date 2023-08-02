@@ -42,7 +42,7 @@ A,spotify,"is propietary garbage I use to listen music, because I’m a conzoome
 ,Ttf-hack,font for da terminal
 A,Nerd-fonts-jetbrains-mono,font for da system
 ,pavucontrol,allows you to graphically make more complex audio adjustments
-G,https://github.com/windowsagent/st,is Luke’s custom build of suckless's terminal emulator.
+A,foot,is Knox’s choice of terminal
 A,Hyprland-git,my new WM
 ,rustup,"is the rust language, needed as a dependency"
 A,Eww-wayland,Widget platform for wayland
@@ -65,3 +65,4 @@ A,wlogout,
 A,waybar-hyprland-git,
 A,cava,
 A,Swaylock-effects,
+,Wl-clipboard,for the system clipboard to interface with neovim’s buffer

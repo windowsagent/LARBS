@@ -66,3 +66,4 @@ A,cava,
 A,Swaylock-effects,
 ,Wl-clipboard,for the system clipboard to interface with neovim’s buffer
 ,swayidle,for making the system lock and suspend when idle
+,greetd-tuigreet-git, is my personal choice TUI greeter using the greetd display manager
